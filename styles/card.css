@@ -1,0 +1,82 @@
+.books{
+    background-color: #D9D9D9;
+    padding: 50px;
+    
+    
+    
+}
+
+.bok1{
+    text-align: center;
+    font-size: 4rem;
+    width: 100%;
+
+
+    
+}
+
+.card-service{
+    margin: 2em;
+    display: flex;
+    gap: 6em;
+    justify-content: center;
+}
+
+.crush{
+    align-items: center;
+}
+
+.card {
+    width: 19.6em;
+    border: 1px black solid;
+    border-radius: 2em;
+    box-shadow: 2px black;
+    background-color: white ;
+    padding-bottom: 20px;
+    
+
+    
+}
+
+
+.card img{
+    object-fit: cover;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 40px;
+    border-radius: 20px;
+    
+}
+
+.card p{
+    font-size: 30px;
+    
+    margin-left: 40px;
+}
+
+.card h1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.btn1{
+    margin-left: 100px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: larger;
+    background-color: #B7292C;
+    
+}
+
+.btn1:hover{
+    background-color: green;
+}
+
+.see{
+    text-align: center;
+    font-family: cursive;
+}
+
+.card img:hover {
+    transform: translateY(5px);
+}

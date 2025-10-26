@@ -1,0 +1,23 @@
+.last{
+    display: flex;
+}
+
+.last h1{
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size: 40px;
+
+}
+
+.last img{
+    height: 300px;
+    width: 700px;
+}
+
+form{
+    margin-left: 300px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+
+}
